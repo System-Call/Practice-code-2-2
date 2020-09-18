@@ -147,8 +147,9 @@ bool Deletelist(Linknode*& L, int i, Elemtapy& e)//删除第i个节点
 		return true;
 	}
 }
+
 int main()
 {
-	;
+	
 }
 
